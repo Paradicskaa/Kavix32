@@ -1,0 +1,5 @@
+# Master Client Requirements
+pynput>=1.7.6
+pyserial>=3.5
+pystray>=0.19.5
+Pillow>=10.0.0

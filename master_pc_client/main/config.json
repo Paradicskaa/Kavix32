@@ -1,0 +1,28 @@
+{
+  "ui": {
+    "theme": "dark",
+    "start_on_boot": false
+  },
+  "serial": {
+    "port": "COM5",
+    "baud": 460800
+  },
+  "capture": {
+    "enabled_by_default": false,
+    "toggle_combo": "ctrl+f1"
+  },
+  "sharing": {
+    "mode": "passive"
+  },
+  "keyboard": {
+    "layout": "us",
+    "layouts": [
+      "us"
+    ],
+    "use_windows_layout": true,
+    "layout_profiles": {
+      "us": {}
+    },
+    "selected_pack_id": "kbda1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "serial_port": "",
+  "baud": 460800,
+  "poll_interval_ms": 300,
+  "force_resend_ms": 2000,
+  "max_text_chars": 65536,
+  "connect_retry_ms": 1200,
+  "target_vid": "303A",
+  "target_pid": "4004"
+}
