@@ -9,10 +9,10 @@
   },
   "capture": {
     "enabled_by_default": false,
-    "toggle_combo": "ctrl+f1"
+    "toggle_combo": "alt+e"
   },
   "sharing": {
-    "mode": "passive"
+    "mode": "clipboard"
   },
   "keyboard": {
     "layout": "us",
